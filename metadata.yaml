@@ -1,6 +1,9 @@
 _repo: Yingying-s-Biography_52267
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Yingying's Biography
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yuan, Zhen
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '46749'
     url: http://www.gutenberg.org/2009/agents/46749
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52267#Yingying-s-Biography
 gutenberg_issued: '2016-06-08'
 gutenberg_type: Text
 identifiers:
