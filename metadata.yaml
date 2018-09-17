@@ -1,0 +1,30 @@
+_repo: Yingying-s-Biography_52267
+_version: 0.0.1
+alternative_title: Yingying's Biography
+creator:
+  author:
+    agent_name: Yuan, Zhen
+    aliases:
+    - Yuan, Weizhi
+    - 元微之
+    - Yuanzhen
+    - 元稹
+    birthdate: 779
+    deathdate: 831
+    gutenberg_agent_id: '46749'
+    url: http://www.gutenberg.org/2009/agents/46749
+description: ''
+gutenberg_issued: '2016-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52267'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Tang dynasty, 618-907'
+- GITenberg
+title: 鶯鶯傳
+url: http://www.gutenberg.org/ebooks/52267
